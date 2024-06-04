@@ -46,6 +46,9 @@ private WebElement addbeverquantity;
 @FindBy (xpath = "(//button[@data-label=\"miniCartCheckout\"])")
 private WebElement checkout;
 
+
+
+
     public WebElement getCheckout() {
         return checkout;
     }
