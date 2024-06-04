@@ -50,6 +50,9 @@ private WebElement checkout;
         return checkout;
     }
 
+
+
+
     public WebElement getRightarr() {
         return rightarr;
     }
