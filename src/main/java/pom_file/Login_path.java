@@ -49,6 +49,11 @@ private WebElement checkout;
 
 
 
+
+
+
+
+
     public WebElement getCheckout() {
         return checkout;
     }
