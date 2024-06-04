@@ -73,6 +73,7 @@ private WebElement removerpizza;
         return removerpizza;
     }
 
+
     public WebElement getAddbeverquantity() {
         return addbeverquantity;
     }
